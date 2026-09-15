@@ -50,6 +50,9 @@ def move(game_state: typing.Dict) -> typing.Dict:
     my_head = game_state["you"]["body"][0]  # Coordinates of your head
     my_neck = game_state["you"]["body"][1]  # Coordinates of your "neck"
 
+    print("Y: " + str(my_head["y"]))
+    print("X: " + str(my_head["x"]))
+
     if my_neck["x"] < my_head["x"]:  # Neck is left of head, don't move left
         is_move_safe["left"] = False
 
@@ -62,14 +65,56 @@ def move(game_state: typing.Dict) -> typing.Dict:
     elif my_neck["y"] > my_head["y"]:  # Neck is above head, don't move up
         is_move_safe["up"] = False
 
+
+
+    if my_head["y"] == game_state['board']['height'] -1:
+        print("HEAD Y IS BOARD HEIGHT")
+        is_move_safe["up"] = False
+
+    if my_head["y"] == 0:
+        print("HEAD Y IS ZERO")
+        is_move_safe["down"] = False
+
+    if my_head["x"] == game_state['board']['width'] -1:
+        print("HEAD X IS BOARD WIDTH")
+        is_move_safe["right"] = False
+
+    if my_head["x"] == 0:
+        print("HEAD X IS ZERO")
+        is_move_safe["left"] = False
+
     # TODO: Step 1 - Prevent your Battlesnake from moving out of bounds
     # board_width = game_state['board']['width']
     # board_height = game_state['board']['height']
 
     # TODO: Step 2 - Prevent your Battlesnake from colliding with itself
+    for body in game_state['you']['body'][1:]:
+        if my_head["x"]+1 == body["x"] and my_head["y"] == body["y"]:
+            is_move_safe["right"] = False
+        if my_head["x"]-1 == body["x"] and my_head["y"] == body["y"] :
+            is_move_safe["left"] = False
+        if my_head["y"]+1 == body["y"] and my_head["x"] == body["x"]:
+            is_move_safe["up"] = False
+        if my_head["y"]-1 == body["y"] and my_head["x"] == body["x"]:
+            is_move_safe["down"] = False
+
     # my_body = game_state['you']['body']
 
     # TODO: Step 3 - Prevent your Battlesnake from colliding with other Battlesnakes
+    opponents = game_state['board']['snakes']
+
+    for snake in opponents:
+        print(snake["body"])
+        for body in snake["body"]:
+            if my_head["x"]+1 == body["x"] and my_head["y"] == body["y"]:
+                is_move_safe["right"] = False
+            if my_head["x"]-1 == body["x"] and my_head["y"] == body["y"] :
+                is_move_safe["left"] = False
+            if my_head["y"]+1 == body["y"] and my_head["x"] == body["x"]:
+                is_move_safe["up"] = False
+            if my_head["y"]-1 == body["y"] and my_head["x"] == body["x"]:
+                is_move_safe["down"] = False
+
     # opponents = game_state['board']['snakes']
 
     # Are there any safe moves left?
