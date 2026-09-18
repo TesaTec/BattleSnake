@@ -16,7 +16,7 @@ DELTAS = {"up": (0, 1), "down": (0, -1), "left": (-1, 0), "right": (1, 0)}
 
 # These numeric columns are the network's inputs. The complete apple list and
 # original state are also recorded, but variable-length lists are not MLP inputs.
-INPUT_COLUMNS = ["board_width", "board_height"]
+INPUT_COLUMNS = ["board_width", "board_height", "food", "snakes", "health"]
 
 
 def state_to_attributes(state):
@@ -27,7 +27,7 @@ def state_to_attributes(state):
     This does not predict future traps or simultaneous head-to-head collisions.
     """
     board, snake = state["board"], state["you"]
-    attributes = {"board_width": board["width"], "board_height": board["height"], }
+    attributes = {"board_width": board["width"], "board_height": board["height"], "food": board["food"], "snakes": board["snakes"], "health": snake["health"]}
 
     # TODO: add further attributes you want to track. For each attribute, also add the
     #  name of the attribute in the list called INPUT_COLUMNS above.

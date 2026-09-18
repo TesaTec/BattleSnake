@@ -147,6 +147,8 @@ def move(game_state: typing.Dict) -> typing.Dict:
     # food = game_state['board']['food']
 
     print(f"MOVE {game_state['turn']}: {next_move}")
+    if recording_enabled:
+        record_state(game_state, next_move)
     return {"move": next_move}
 
 
