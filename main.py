@@ -12,11 +12,24 @@
 
 import random
 import typing
-
+from step_0_state_attributes import make_training_example
 
 # info is called when you create your Battlesnake on play.battlesnake.com
 # and controls your Battlesnake's appearance
 # TIP: If you open your Battlesnake URL in a browser you should see this data
+
+recording_enabled = False
+recording_seed = None
+recorded_rows = []
+
+
+def record_state(game_state: typing.Dict, direction: str):
+    """Store one example using the shared schema in step_0_state_attributes.py."""
+    recorded_rows.append(make_training_example(
+        game_state, direction, seed=recording_seed, label_source="rule_based_agent"
+    ))
+
+
 def info() -> typing.Dict:
     print("INFO")
 
