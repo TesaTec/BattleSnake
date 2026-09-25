@@ -1,0 +1,1382 @@
+INFO 13:06:25.271912 Snake ID: b1506c55-c1b1-4081-8b3d-292403d33d2c URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.274716 Ruleset: solo, Seed: 100
+INFO 13:06:25.274741 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.294044 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.294094 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.295206 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.295234 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.296094 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.296135 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.296940 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.296965 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.298206 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.298245 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.299167 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.299194 Turn: 6, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:06:25.299598 Game completed after 7 turns.
+INFO 13:06:25.325317 Snake ID: 78b57d43-ffea-4ac9-aa43-f68137d68dba URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.326236 Ruleset: solo, Seed: 101
+INFO 13:06:25.326250 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.338525 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.338567 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.339797 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.339841 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.340753 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.340784 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.343077 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.343108 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.343911 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.343940 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.344790 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.344820 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.345549 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.345574 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.346263 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.346295 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.347093 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.347120 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.347861 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.347895 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:06:25.348417 Game completed after 11 turns.
+INFO 13:06:25.366824 Snake ID: 4fc1f743-90d6-43fd-9fde-e75b5322c2a2 URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.367580 Ruleset: solo, Seed: 102
+INFO 13:06:25.367596 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.379738 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.379802 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.380928 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.380954 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:06:25.381370 Game completed after 3 turns.
+INFO 13:06:25.411921 Snake ID: 09779a6e-3367-4bfb-8588-f3dba413b6c7 URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.412787 Ruleset: solo, Seed: 103
+INFO 13:06:25.412800 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.425185 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.425267 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.426473 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.426508 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.427547 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.427586 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.428398 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.428432 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.429241 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.429269 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.430023 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.430073 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.431026 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.431063 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.431865 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.432055 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.432812 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.432833 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.433614 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.433645 Turn: 10, Snakes Alive: [], Food: 5, Hazards: 0
+INFO 13:06:25.434012 Game completed after 11 turns.
+INFO 13:06:25.455558 Snake ID: f58f1fc1-39d5-4783-9df9-4ed1e7a538b5 URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.456452 Ruleset: solo, Seed: 104
+INFO 13:06:25.456492 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.468629 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.468681 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.469866 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.469902 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:06:25.470487 Game completed after 3 turns.
+INFO 13:06:25.497574 Snake ID: 0a133e4d-3a64-4162-b8bb-544147647f55 URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.498643 Ruleset: solo, Seed: 105
+INFO 13:06:25.498672 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.511044 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.511099 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.512208 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.512258 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:06:25.512694 Game completed after 3 turns.
+INFO 13:06:25.542756 Snake ID: b01a5792-0ade-46f6-8020-c4931b261c85 URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.543620 Ruleset: solo, Seed: 106
+INFO 13:06:25.543671 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.555565 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.555613 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.556804 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.556837 Turn: 2, Snakes Alive: [], Food: 3, Hazards: 0
+INFO 13:06:25.557398 Game completed after 3 turns.
+INFO 13:06:25.585130 Snake ID: 2a0bf64e-1330-45d8-9b47-6f71e8dc89d5 URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.586347 Ruleset: solo, Seed: 107
+INFO 13:06:25.586371 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.597977 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.598028 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.599299 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.599350 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.600236 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.600267 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.601138 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.601169 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.602184 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.602222 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.603062 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.603098 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.603869 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.603898 Turn: 7, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:06:25.604675 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.604700 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:06:25.605483 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.605506 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+WARN 13:06:25.606651 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.606689 Turn: 10, Snakes Alive: [], Food: 6, Hazards: 0
+INFO 13:06:25.607151 Game completed after 11 turns.
+INFO 13:06:25.629835 Snake ID: 0d29cdf2-aabd-43e8-8aba-01bc52e04bba URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.630735 Ruleset: solo, Seed: 108
+INFO 13:06:25.630750 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.642812 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.642857 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.643746 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.643777 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.644543 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.644578 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.645318 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.645347 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.646163 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.646192 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.646856 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.646886 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.647691 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.647717 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.648391 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.648421 Turn: 8, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+WARN 13:06:25.649518 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.649552 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+WARN 13:06:25.650428 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.650456 Turn: 10, Snakes Alive: [], Food: 4, Hazards: 0
+INFO 13:06:25.651021 Game completed after 11 turns.
+INFO 13:06:25.674641 Snake ID: 5208b5f3-6149-40eb-a354-88a9a94b8243 URL: http://127.0.0.1:49839, Name: "Rule-based agent"
+INFO 13:06:25.675599 Ruleset: solo, Seed: 109
+INFO 13:06:25.675616 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.687471 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.687523 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+WARN 13:06:25.688341 Got non-ok status code from http://127.0.0.1:49839/move
+	StatusCode: 500 (expected 200)
+	Body: "<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n"
+INFO 13:06:25.688370 Turn: 2, Snakes Alive: [], Food: 2, Hazards: 0
+INFO 13:06:25.688793 Game completed after 3 turns.
+INFO 13:07:06.090420 Snake ID: 6bc53372-11aa-4f92-b170-af6eabb5ac3c URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:06.092374 Ruleset: solo, Seed: 100
+INFO 13:07:06.092389 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.112382 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.113235 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.113999 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.114761 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.115530 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.116331 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.117096 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.117735 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.118332 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.118925 Turn: 10, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.119503 Turn: 11, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.120076 Turn: 12, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.121381 Turn: 13, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.122000 Turn: 14, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.122832 Turn: 15, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.123440 Turn: 16, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.124190 Turn: 17, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.124805 Turn: 18, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.125459 Turn: 19, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.126048 Turn: 20, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.126661 Turn: 21, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.127268 Turn: 22, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.127949 Turn: 23, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.128542 Turn: 24, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.129287 Turn: 25, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.129918 Turn: 26, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.130682 Turn: 27, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.131366 Turn: 28, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.132013 Turn: 29, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.132721 Turn: 30, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.133421 Turn: 31, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.134103 Turn: 32, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.134871 Turn: 33, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.135572 Turn: 34, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.136251 Turn: 35, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.136920 Turn: 36, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.137625 Turn: 37, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.138461 Turn: 38, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.139209 Turn: 39, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.139860 Turn: 40, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.140563 Turn: 41, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.141265 Turn: 42, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.141935 Turn: 43, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.142814 Turn: 44, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.143479 Turn: 45, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.144128 Turn: 46, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.144760 Turn: 47, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.145513 Turn: 48, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.146173 Turn: 49, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.146829 Turn: 50, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.147455 Turn: 51, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.148179 Turn: 52, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.148871 Turn: 53, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.149532 Turn: 54, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.150185 Turn: 55, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.150850 Turn: 56, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.151562 Turn: 57, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.152236 Turn: 58, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.152912 Turn: 59, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.153537 Turn: 60, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.154199 Turn: 61, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.154829 Turn: 62, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.155473 Turn: 63, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.156189 Turn: 64, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.156920 Turn: 65, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.157595 Turn: 66, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.158323 Turn: 67, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.159021 Turn: 68, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.160054 Turn: 69, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.160884 Turn: 70, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.161752 Turn: 71, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.162569 Turn: 72, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.164282 Turn: 73, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.165022 Turn: 74, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.165697 Turn: 75, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.166324 Turn: 76, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.166955 Turn: 77, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.167594 Turn: 78, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.168698 Turn: 79, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.169342 Turn: 80, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.169980 Turn: 81, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.170643 Turn: 82, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.171295 Turn: 83, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.172013 Turn: 84, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.172754 Turn: 85, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.173467 Turn: 86, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.174174 Turn: 87, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.174855 Turn: 88, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.175643 Turn: 89, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.176392 Turn: 90, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.177385 Turn: 91, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.178183 Turn: 92, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.178939 Turn: 93, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.180052 Turn: 94, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.180982 Turn: 95, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.181707 Turn: 96, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.182431 Turn: 97, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.183130 Turn: 98, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.183873 Turn: 99, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.184605 Turn: 100, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.185378 Turn: 101, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.186168 Turn: 102, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.186860 Turn: 103, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.187577 Turn: 104, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.188245 Turn: 105, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.188974 Turn: 106, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.189717 Turn: 107, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.190488 Turn: 108, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.191212 Turn: 109, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.191963 Turn: 110, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.192712 Turn: 111, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.193567 Turn: 112, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.194423 Turn: 113, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.195332 Turn: 114, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.196038 Turn: 115, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.196714 Turn: 116, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.197446 Turn: 117, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.198110 Turn: 118, Snakes Alive: [], Food: 13, Hazards: 0
+INFO 13:07:06.198438 Game completed after 119 turns.
+INFO 13:07:06.282029 Snake ID: 5f2760b5-4bb9-4181-bbe1-74dfb0e71069 URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:06.283135 Ruleset: solo, Seed: 101
+INFO 13:07:06.283152 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.294516 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.295326 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.296133 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.296907 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.297691 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.298351 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.298974 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.299715 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.300679 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.301523 Turn: 10, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.302453 Turn: 11, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.303289 Turn: 12, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.304184 Turn: 13, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.305005 Turn: 14, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.305778 Turn: 15, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.306557 Turn: 16, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.307249 Turn: 17, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.307918 Turn: 18, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.308618 Turn: 19, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.309337 Turn: 20, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.310103 Turn: 21, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.310875 Turn: 22, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.312125 Turn: 23, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.312890 Turn: 24, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.313648 Turn: 25, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.314351 Turn: 26, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.314979 Turn: 27, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.315751 Turn: 28, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.353847 Turn: 29, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.354917 Turn: 30, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.355708 Turn: 31, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.356471 Turn: 32, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.357428 Turn: 33, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.358286 Turn: 34, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.358979 Turn: 35, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.359775 Turn: 36, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.360557 Turn: 37, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.361345 Turn: 38, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.362030 Turn: 39, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.362749 Turn: 40, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.363451 Turn: 41, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.364244 Turn: 42, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.365273 Turn: 43, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.366155 Turn: 44, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.367185 Turn: 45, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.368015 Turn: 46, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.369606 Turn: 47, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.370840 Turn: 48, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.371699 Turn: 49, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.372506 Turn: 50, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.373236 Turn: 51, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.373979 Turn: 52, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.374674 Turn: 53, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.375392 Turn: 54, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.376153 Turn: 55, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.377111 Turn: 56, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.378129 Turn: 57, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.378932 Turn: 58, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.379738 Turn: 59, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.380590 Turn: 60, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.381401 Turn: 61, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.382089 Turn: 62, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.382813 Turn: 63, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.383481 Turn: 64, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.384186 Turn: 65, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.384987 Turn: 66, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.385714 Turn: 67, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.386670 Turn: 68, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.387520 Turn: 69, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.388235 Turn: 70, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.388961 Turn: 71, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.389674 Turn: 72, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.390350 Turn: 73, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.391017 Turn: 74, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.391709 Turn: 75, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.392473 Turn: 76, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.393431 Turn: 77, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.394409 Turn: 78, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.395224 Turn: 79, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.396064 Turn: 80, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.396869 Turn: 81, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.397553 Turn: 82, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.398659 Turn: 83, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.399385 Turn: 84, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.400134 Turn: 85, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.400876 Turn: 86, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.401597 Turn: 87, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.402294 Turn: 88, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.402971 Turn: 89, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.403654 Turn: 90, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.404691 Turn: 91, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.405427 Turn: 92, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.406130 Turn: 93, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.406895 Turn: 94, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.407607 Turn: 95, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.408352 Turn: 96, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.409073 Turn: 97, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.409951 Turn: 98, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.410671 Turn: 99, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.411431 Turn: 100, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.412241 Turn: 101, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.413063 Turn: 102, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.413805 Turn: 103, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.414525 Turn: 104, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.415291 Turn: 105, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.416046 Turn: 106, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.416748 Turn: 107, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.417456 Turn: 108, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.418320 Turn: 109, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.419170 Turn: 110, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.420120 Turn: 111, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.420870 Turn: 112, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.421601 Turn: 113, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.422318 Turn: 114, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.423031 Turn: 115, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.423748 Turn: 116, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.424474 Turn: 117, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.425166 Turn: 118, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.425862 Turn: 119, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.426601 Turn: 120, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.427282 Turn: 121, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.427991 Turn: 122, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.429104 Turn: 123, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.430006 Turn: 124, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.430788 Turn: 125, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.431508 Turn: 126, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.432202 Turn: 127, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.433088 Turn: 128, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.433965 Turn: 129, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.434861 Turn: 130, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.435755 Turn: 131, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.436811 Turn: 132, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.437806 Turn: 133, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.438643 Turn: 134, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.439457 Turn: 135, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.440184 Turn: 136, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.440893 Turn: 137, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.441640 Turn: 138, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.442358 Turn: 139, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.443183 Turn: 140, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.443907 Turn: 141, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.444641 Turn: 142, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.445377 Turn: 143, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.446114 Turn: 144, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.446817 Turn: 145, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.447555 Turn: 146, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.448763 Turn: 147, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.449598 Turn: 148, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.450336 Turn: 149, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.451105 Turn: 150, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.452014 Turn: 151, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.452845 Turn: 152, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.453753 Turn: 153, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.454533 Turn: 154, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.455272 Turn: 155, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.456069 Turn: 156, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.456820 Turn: 157, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.457551 Turn: 158, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.458295 Turn: 159, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.459054 Turn: 160, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.459937 Turn: 161, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.460774 Turn: 162, Snakes Alive: [], Food: 9, Hazards: 0
+INFO 13:07:06.461173 Game completed after 163 turns.
+INFO 13:07:06.549199 Snake ID: a5e71049-d839-4c21-a2ba-a1735bed53eb URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:06.550271 Ruleset: solo, Seed: 102
+INFO 13:07:06.550287 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.562569 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.563675 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.564565 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.565435 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.566427 Turn: 5, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.567270 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.568112 Turn: 7, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.569005 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.569860 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.570890 Turn: 10, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.571810 Turn: 11, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.572511 Turn: 12, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.573252 Turn: 13, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.573911 Turn: 14, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.574579 Turn: 15, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.575253 Turn: 16, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.575944 Turn: 17, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.576799 Turn: 18, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.577565 Turn: 19, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.578305 Turn: 20, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.579139 Turn: 21, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.579912 Turn: 22, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.580676 Turn: 23, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.581406 Turn: 24, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.582163 Turn: 25, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.582856 Turn: 26, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.583519 Turn: 27, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.584255 Turn: 28, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.585049 Turn: 29, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.585736 Turn: 30, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.586479 Turn: 31, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.587133 Turn: 32, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.587813 Turn: 33, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.588465 Turn: 34, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.589229 Turn: 35, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.589945 Turn: 36, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.590593 Turn: 37, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.591281 Turn: 38, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.591918 Turn: 39, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.592671 Turn: 40, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.593436 Turn: 41, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.594138 Turn: 42, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.594900 Turn: 43, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.595649 Turn: 44, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.596361 Turn: 45, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.597061 Turn: 46, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.597734 Turn: 47, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.598412 Turn: 48, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.599084 Turn: 49, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.599784 Turn: 50, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.600519 Turn: 51, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.601917 Turn: 52, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.602607 Turn: 53, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.603290 Turn: 54, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.603986 Turn: 55, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.604752 Turn: 56, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.605567 Turn: 57, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.606316 Turn: 58, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.606993 Turn: 59, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.607699 Turn: 60, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.608409 Turn: 61, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.609179 Turn: 62, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.609938 Turn: 63, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.610670 Turn: 64, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.611368 Turn: 65, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.612043 Turn: 66, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.612750 Turn: 67, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.613415 Turn: 68, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.614173 Turn: 69, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.614983 Turn: 70, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.615808 Turn: 71, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.616559 Turn: 72, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.617388 Turn: 73, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.618181 Turn: 74, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.618906 Turn: 75, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:06.619762 Turn: 76, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.620601 Turn: 77, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.621341 Turn: 78, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.622161 Turn: 79, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.622871 Turn: 80, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.624009 Turn: 81, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.624893 Turn: 82, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.625674 Turn: 83, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.626445 Turn: 84, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.627251 Turn: 85, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.628025 Turn: 86, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.628734 Turn: 87, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.629520 Turn: 88, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.630225 Turn: 89, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.631017 Turn: 90, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.631787 Turn: 91, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.632654 Turn: 92, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.633331 Turn: 93, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.634077 Turn: 94, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.634825 Turn: 95, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.635517 Turn: 96, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:06.636368 Turn: 97, Snakes Alive: [], Food: 17, Hazards: 0
+INFO 13:07:06.636757 Game completed after 98 turns.
+INFO 13:07:06.704254 Snake ID: 161c8a42-1dd5-4b09-9249-b0601d091856 URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:06.705150 Ruleset: solo, Seed: 103
+INFO 13:07:06.705161 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.716902 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.717801 Turn: 2, Snakes Alive: [Rule-based agent], Food: 1, Hazards: 0
+INFO 13:07:06.718548 Turn: 3, Snakes Alive: [Rule-based agent], Food: 1, Hazards: 0
+INFO 13:07:06.719341 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.720006 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.720862 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.721526 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.722141 Turn: 8, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.722764 Turn: 9, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.723362 Turn: 10, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.723976 Turn: 11, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.724634 Turn: 12, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.725278 Turn: 13, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.725945 Turn: 14, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.726582 Turn: 15, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.727193 Turn: 16, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.727824 Turn: 17, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.728853 Turn: 18, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.729759 Turn: 19, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.730453 Turn: 20, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.731256 Turn: 21, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.732102 Turn: 22, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.732888 Turn: 23, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.733724 Turn: 24, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.734428 Turn: 25, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.735128 Turn: 26, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.735819 Turn: 27, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.736590 Turn: 28, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.737285 Turn: 29, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.738010 Turn: 30, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.738687 Turn: 31, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.739434 Turn: 32, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.740145 Turn: 33, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.740801 Turn: 34, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.741558 Turn: 35, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.742322 Turn: 36, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.743144 Turn: 37, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.743853 Turn: 38, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.744591 Turn: 39, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.745475 Turn: 40, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.746277 Turn: 41, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.746968 Turn: 42, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.747674 Turn: 43, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.748341 Turn: 44, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.749110 Turn: 45, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.750043 Turn: 46, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.750882 Turn: 47, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.751990 Turn: 48, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.752816 Turn: 49, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.753819 Turn: 50, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.754647 Turn: 51, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.755426 Turn: 52, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.756263 Turn: 53, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.756953 Turn: 54, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.757793 Turn: 55, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.758580 Turn: 56, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.759336 Turn: 57, Snakes Alive: [], Food: 12, Hazards: 0
+INFO 13:07:06.759832 Game completed after 58 turns.
+INFO 13:07:06.814450 Snake ID: 3c7bea03-65b0-4af9-88fd-dd72ced38765 URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:06.815502 Ruleset: solo, Seed: 104
+INFO 13:07:06.815527 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.826855 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.827833 Turn: 2, Snakes Alive: [Rule-based agent], Food: 1, Hazards: 0
+INFO 13:07:06.828684 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.829641 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.830389 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.831141 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.831807 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.832454 Turn: 8, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:06.833112 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:06.833854 Turn: 10, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.834796 Turn: 11, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.835604 Turn: 12, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:06.836418 Turn: 13, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.837233 Turn: 14, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.837947 Turn: 15, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.838751 Turn: 16, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.839485 Turn: 17, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.840184 Turn: 18, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:06.840921 Turn: 19, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.841652 Turn: 20, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:06.842542 Turn: 21, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:06.843347 Turn: 22, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:06.844090 Turn: 23, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.844930 Turn: 24, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.845669 Turn: 25, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:06.846310 Turn: 26, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.847079 Turn: 27, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.847791 Turn: 28, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.848508 Turn: 29, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.849750 Turn: 30, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.850432 Turn: 31, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.851176 Turn: 32, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.851949 Turn: 33, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.852676 Turn: 34, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.853382 Turn: 35, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.854250 Turn: 36, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.855010 Turn: 37, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.855774 Turn: 38, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.856609 Turn: 39, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.857318 Turn: 40, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.858052 Turn: 41, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.858728 Turn: 42, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.859493 Turn: 43, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.860250 Turn: 44, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.860950 Turn: 45, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.861650 Turn: 46, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.862511 Turn: 47, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.863235 Turn: 48, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.863934 Turn: 49, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.864622 Turn: 50, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.865322 Turn: 51, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:06.866108 Turn: 52, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.866817 Turn: 53, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.867592 Turn: 54, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.868360 Turn: 55, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.869065 Turn: 56, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.869795 Turn: 57, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.870494 Turn: 58, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.871294 Turn: 59, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.872186 Turn: 60, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.872993 Turn: 61, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.873723 Turn: 62, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.874423 Turn: 63, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.875144 Turn: 64, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.875889 Turn: 65, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.876625 Turn: 66, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.877429 Turn: 67, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.878117 Turn: 68, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.878829 Turn: 69, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.879510 Turn: 70, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.880203 Turn: 71, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.880988 Turn: 72, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.881811 Turn: 73, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.882587 Turn: 74, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.883272 Turn: 75, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.884014 Turn: 76, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.884857 Turn: 77, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.885558 Turn: 78, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.886412 Turn: 79, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:06.887611 Turn: 80, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.888663 Turn: 81, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.889441 Turn: 82, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.890155 Turn: 83, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.890833 Turn: 84, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.891524 Turn: 85, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.892191 Turn: 86, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:06.893031 Turn: 87, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.893748 Turn: 88, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:06.894461 Turn: 89, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.895162 Turn: 90, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.895882 Turn: 91, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.896963 Turn: 92, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.897676 Turn: 93, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.898553 Turn: 94, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:06.899346 Turn: 95, Snakes Alive: [], Food: 12, Hazards: 0
+INFO 13:07:06.899727 Game completed after 96 turns.
+INFO 13:07:06.986399 Snake ID: 64380c08-51e2-4ca0-988e-26aaac58d0ef URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:06.987491 Ruleset: solo, Seed: 105
+INFO 13:07:06.987509 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.998600 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:06.999549 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.000516 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.001360 Turn: 4, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.002380 Turn: 5, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.003057 Turn: 6, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.003967 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.004679 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.005400 Turn: 9, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.006113 Turn: 10, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.006936 Turn: 11, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.007721 Turn: 12, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.008449 Turn: 13, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.009177 Turn: 14, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.010149 Turn: 15, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.011162 Turn: 16, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.012059 Turn: 17, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.012855 Turn: 18, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.013655 Turn: 19, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.014479 Turn: 20, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.015243 Turn: 21, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.015915 Turn: 22, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.016665 Turn: 23, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.017367 Turn: 24, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.018324 Turn: 25, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.019188 Turn: 26, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.020099 Turn: 27, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.020954 Turn: 28, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.021813 Turn: 29, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.022644 Turn: 30, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.023426 Turn: 31, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.024156 Turn: 32, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.024984 Turn: 33, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.025786 Turn: 34, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.026596 Turn: 35, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.027339 Turn: 36, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.028015 Turn: 37, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.028742 Turn: 38, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.029429 Turn: 39, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.030346 Turn: 40, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.031157 Turn: 41, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.031974 Turn: 42, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.032843 Turn: 43, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.033715 Turn: 44, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.034516 Turn: 45, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.035430 Turn: 46, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.036131 Turn: 47, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.036853 Turn: 48, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.037645 Turn: 49, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.038498 Turn: 50, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.039376 Turn: 51, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.040423 Turn: 52, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.041249 Turn: 53, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.042113 Turn: 54, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.042901 Turn: 55, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.043735 Turn: 56, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.044511 Turn: 57, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.045336 Turn: 58, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.046342 Turn: 59, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.047223 Turn: 60, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.048078 Turn: 61, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.048945 Turn: 62, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.049700 Turn: 63, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.050884 Turn: 64, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.051741 Turn: 65, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.052540 Turn: 66, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.053408 Turn: 67, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.054304 Turn: 68, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.055249 Turn: 69, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.056037 Turn: 70, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.056824 Turn: 71, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.057574 Turn: 72, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.058342 Turn: 73, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.059124 Turn: 74, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.059939 Turn: 75, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.060750 Turn: 76, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.061568 Turn: 77, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.062400 Turn: 78, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.063595 Turn: 79, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.064581 Turn: 80, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.065292 Turn: 81, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.066029 Turn: 82, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.066735 Turn: 83, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.067461 Turn: 84, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.068189 Turn: 85, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.068963 Turn: 86, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.069808 Turn: 87, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.070517 Turn: 88, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.071260 Turn: 89, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.072056 Turn: 90, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.072814 Turn: 91, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.073609 Turn: 92, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.074342 Turn: 93, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.075112 Turn: 94, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.075840 Turn: 95, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.076618 Turn: 96, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.077388 Turn: 97, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.078079 Turn: 98, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.078829 Turn: 99, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.079536 Turn: 100, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.080253 Turn: 101, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.080983 Turn: 102, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.081763 Turn: 103, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.082567 Turn: 104, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.083357 Turn: 105, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.084217 Turn: 106, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.085055 Turn: 107, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.085791 Turn: 108, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.086765 Turn: 109, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.087692 Turn: 110, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.088433 Turn: 111, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.089271 Turn: 112, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.090065 Turn: 113, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.092088 Turn: 114, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.093096 Turn: 115, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.093971 Turn: 116, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.094947 Turn: 117, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.095851 Turn: 118, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.096761 Turn: 119, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.097602 Turn: 120, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.098448 Turn: 121, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.099332 Turn: 122, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.100124 Turn: 123, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.101385 Turn: 124, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.102232 Turn: 125, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.103016 Turn: 126, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.103882 Turn: 127, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.104739 Turn: 128, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.105503 Turn: 129, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.106231 Turn: 130, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.106969 Turn: 131, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.107676 Turn: 132, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.108434 Turn: 133, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.109143 Turn: 134, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.109945 Turn: 135, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.110645 Turn: 136, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.111509 Turn: 137, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.112293 Turn: 138, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.113128 Turn: 139, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.113992 Turn: 140, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.114741 Turn: 141, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.115500 Turn: 142, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.116230 Turn: 143, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.116939 Turn: 144, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.117735 Turn: 145, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.118502 Turn: 146, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.119380 Turn: 147, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.120112 Turn: 148, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.120830 Turn: 149, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.121610 Turn: 150, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.122532 Turn: 151, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.123335 Turn: 152, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.124076 Turn: 153, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.124793 Turn: 154, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.125580 Turn: 155, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.126403 Turn: 156, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.127115 Turn: 157, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.127847 Turn: 158, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.128583 Turn: 159, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.129309 Turn: 160, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.130016 Turn: 161, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.130845 Turn: 162, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.131629 Turn: 163, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.132506 Turn: 164, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.133338 Turn: 165, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.134119 Turn: 166, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.134953 Turn: 167, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.135765 Turn: 168, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.136651 Turn: 169, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.137812 Turn: 170, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.138629 Turn: 171, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.139358 Turn: 172, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.140085 Turn: 173, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.140845 Turn: 174, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.141892 Turn: 175, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.142683 Turn: 176, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.143545 Turn: 177, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.144343 Turn: 178, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.145309 Turn: 179, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.146159 Turn: 180, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.146956 Turn: 181, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.147829 Turn: 182, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.148757 Turn: 183, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.149561 Turn: 184, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.150382 Turn: 185, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.151211 Turn: 186, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.152000 Turn: 187, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.152777 Turn: 188, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.153674 Turn: 189, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.154555 Turn: 190, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.155371 Turn: 191, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.156145 Turn: 192, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.156893 Turn: 193, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.157641 Turn: 194, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.158418 Turn: 195, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.159164 Turn: 196, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.159949 Turn: 197, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.160693 Turn: 198, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.161475 Turn: 199, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.162192 Turn: 200, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.162927 Turn: 201, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.163668 Turn: 202, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.164533 Turn: 203, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.165402 Turn: 204, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.166227 Turn: 205, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.167096 Turn: 206, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.168036 Turn: 207, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.168864 Turn: 208, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.169686 Turn: 209, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.170654 Turn: 210, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.171492 Turn: 211, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.172304 Turn: 212, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.173105 Turn: 213, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.173916 Turn: 214, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.174734 Turn: 215, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.175531 Turn: 216, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.176352 Turn: 217, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.177185 Turn: 218, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.178009 Turn: 219, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.178818 Turn: 220, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.179700 Turn: 221, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.180531 Turn: 222, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.181755 Turn: 223, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.182640 Turn: 224, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.183638 Turn: 225, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.184509 Turn: 226, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.185336 Turn: 227, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.186170 Turn: 228, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.187028 Turn: 229, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.187818 Turn: 230, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.188701 Turn: 231, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.189659 Turn: 232, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.190624 Turn: 233, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.191522 Turn: 234, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.192397 Turn: 235, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.193327 Turn: 236, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.194222 Turn: 237, Snakes Alive: [], Food: 7, Hazards: 0
+INFO 13:07:07.194640 Game completed after 238 turns.
+INFO 13:07:07.269146 Snake ID: 2375f43e-fc1b-47da-8866-dcf1973fb3de URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:07.270319 Ruleset: solo, Seed: 106
+INFO 13:07:07.270339 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.282388 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.283715 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.284667 Turn: 3, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.285520 Turn: 4, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.286372 Turn: 5, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.287053 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.287758 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.288472 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.289117 Turn: 9, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.289775 Turn: 10, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.290551 Turn: 11, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.291186 Turn: 12, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.291822 Turn: 13, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.292430 Turn: 14, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.293238 Turn: 15, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.293875 Turn: 16, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.294678 Turn: 17, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.295356 Turn: 18, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.296073 Turn: 19, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.296984 Turn: 20, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.297925 Turn: 21, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.298651 Turn: 22, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.299391 Turn: 23, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.300092 Turn: 24, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.300719 Turn: 25, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.301397 Turn: 26, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.302095 Turn: 27, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.302767 Turn: 28, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.303463 Turn: 29, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.304148 Turn: 30, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.305127 Turn: 31, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.305858 Turn: 32, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.306495 Turn: 33, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.307158 Turn: 34, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.307796 Turn: 35, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.308407 Turn: 36, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.309037 Turn: 37, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.309830 Turn: 38, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.310516 Turn: 39, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.311209 Turn: 40, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.311866 Turn: 41, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.312550 Turn: 42, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.313192 Turn: 43, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.313837 Turn: 44, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.314545 Turn: 45, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.315606 Turn: 46, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.316512 Turn: 47, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.317235 Turn: 48, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.317889 Turn: 49, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.318670 Turn: 50, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.320124 Turn: 51, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.320909 Turn: 52, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.321627 Turn: 53, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.322555 Turn: 54, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.323318 Turn: 55, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.370207 Turn: 56, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.371353 Turn: 57, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.372532 Turn: 58, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.373461 Turn: 59, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.374208 Turn: 60, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.374988 Turn: 61, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.375720 Turn: 62, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.376507 Turn: 63, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.377285 Turn: 64, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.378059 Turn: 65, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.378833 Turn: 66, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.379610 Turn: 67, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.380495 Turn: 68, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.381385 Turn: 69, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.382437 Turn: 70, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.383275 Turn: 71, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:07.383987 Turn: 72, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:07.384887 Turn: 73, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:07.385808 Turn: 74, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:07.386567 Turn: 75, Snakes Alive: [Rule-based agent], Food: 18, Hazards: 0
+INFO 13:07:07.387462 Turn: 76, Snakes Alive: [Rule-based agent], Food: 18, Hazards: 0
+INFO 13:07:07.388370 Turn: 77, Snakes Alive: [Rule-based agent], Food: 18, Hazards: 0
+INFO 13:07:07.389254 Turn: 78, Snakes Alive: [Rule-based agent], Food: 18, Hazards: 0
+INFO 13:07:07.390089 Turn: 79, Snakes Alive: [Rule-based agent], Food: 18, Hazards: 0
+INFO 13:07:07.390855 Turn: 80, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:07.391714 Turn: 81, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:07.392557 Turn: 82, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:07.394060 Turn: 83, Snakes Alive: [Rule-based agent], Food: 17, Hazards: 0
+INFO 13:07:07.394938 Turn: 84, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:07.395803 Turn: 85, Snakes Alive: [Rule-based agent], Food: 16, Hazards: 0
+INFO 13:07:07.396707 Turn: 86, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.397803 Turn: 87, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.398706 Turn: 88, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.399443 Turn: 89, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.400184 Turn: 90, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.401034 Turn: 91, Snakes Alive: [], Food: 14, Hazards: 0
+INFO 13:07:07.401526 Game completed after 92 turns.
+INFO 13:07:07.499685 Snake ID: d4b4e613-5750-4635-9af7-5cd9b6e81225 URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:07.500621 Ruleset: solo, Seed: 107
+INFO 13:07:07.500634 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.512424 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.513391 Turn: 2, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.514080 Turn: 3, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.514873 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.515646 Turn: 5, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.516510 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.517547 Turn: 7, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.518195 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.518829 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.519473 Turn: 10, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.520097 Turn: 11, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.521092 Turn: 12, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.521879 Turn: 13, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.522607 Turn: 14, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.523310 Turn: 15, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.523936 Turn: 16, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.524563 Turn: 17, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.525250 Turn: 18, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.525875 Turn: 19, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.526530 Turn: 20, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.527154 Turn: 21, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.527779 Turn: 22, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.528408 Turn: 23, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.529068 Turn: 24, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.529726 Turn: 25, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.530374 Turn: 26, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.531141 Turn: 27, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.531855 Turn: 28, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.532607 Turn: 29, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.533752 Turn: 30, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.534477 Turn: 31, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.535177 Turn: 32, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.535816 Turn: 33, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.536513 Turn: 34, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.537310 Turn: 35, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.537998 Turn: 36, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.538665 Turn: 37, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.539320 Turn: 38, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.540009 Turn: 39, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.540870 Turn: 40, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.541600 Turn: 41, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.542328 Turn: 42, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.543244 Turn: 43, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.543961 Turn: 44, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.544671 Turn: 45, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.545811 Turn: 46, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.546716 Turn: 47, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.547423 Turn: 48, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.548130 Turn: 49, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.548813 Turn: 50, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.549512 Turn: 51, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.550215 Turn: 52, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.550875 Turn: 53, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.551592 Turn: 54, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.552225 Turn: 55, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.552872 Turn: 56, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.553548 Turn: 57, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.554198 Turn: 58, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.554845 Turn: 59, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.555593 Turn: 60, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.556312 Turn: 61, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.557061 Turn: 62, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.557781 Turn: 63, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.558449 Turn: 64, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.559112 Turn: 65, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.559810 Turn: 66, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.560563 Turn: 67, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.561223 Turn: 68, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.561862 Turn: 69, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.562525 Turn: 70, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.563174 Turn: 71, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.564039 Turn: 72, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.564831 Turn: 73, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.565574 Turn: 74, Snakes Alive: [Rule-based agent], Food: 15, Hazards: 0
+INFO 13:07:07.566287 Turn: 75, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.566989 Turn: 76, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.567782 Turn: 77, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.568618 Turn: 78, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.569360 Turn: 79, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.570189 Turn: 80, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.571316 Turn: 81, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.572079 Turn: 82, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.572834 Turn: 83, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.573508 Turn: 84, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.574186 Turn: 85, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.574856 Turn: 86, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.575575 Turn: 87, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.576382 Turn: 88, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.577136 Turn: 89, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.577845 Turn: 90, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.578623 Turn: 91, Snakes Alive: [], Food: 12, Hazards: 0
+INFO 13:07:07.579077 Game completed after 92 turns.
+INFO 13:07:07.704146 Snake ID: 26f21f8f-3dd5-4628-bacb-c297ba1049f7 URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:07.705227 Ruleset: solo, Seed: 108
+INFO 13:07:07.705247 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.716260 Turn: 1, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.717864 Turn: 2, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.718765 Turn: 3, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.719698 Turn: 4, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.720525 Turn: 5, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.721253 Turn: 6, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.721937 Turn: 7, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.722708 Turn: 8, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.723360 Turn: 9, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.723989 Turn: 10, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.724629 Turn: 11, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.725279 Turn: 12, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.725896 Turn: 13, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.726658 Turn: 14, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.727481 Turn: 15, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.728308 Turn: 16, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.729067 Turn: 17, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.729794 Turn: 18, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.730500 Turn: 19, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.731201 Turn: 20, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.731942 Turn: 21, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.733399 Turn: 22, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.734150 Turn: 23, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.735130 Turn: 24, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.735941 Turn: 25, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.736645 Turn: 26, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.737345 Turn: 27, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.737995 Turn: 28, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.738662 Turn: 29, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.739433 Turn: 30, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.740184 Turn: 31, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.740910 Turn: 32, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.741581 Turn: 33, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.742248 Turn: 34, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.742954 Turn: 35, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.743680 Turn: 36, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.744420 Turn: 37, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.745256 Turn: 38, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.746009 Turn: 39, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.746855 Turn: 40, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.747663 Turn: 41, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.748357 Turn: 42, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.749053 Turn: 43, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.749723 Turn: 44, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.750394 Turn: 45, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.751083 Turn: 46, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.751862 Turn: 47, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.752670 Turn: 48, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.753318 Turn: 49, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.753979 Turn: 50, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.754675 Turn: 51, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.755440 Turn: 52, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.756164 Turn: 53, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.757028 Turn: 54, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.757819 Turn: 55, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.758504 Turn: 56, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.759183 Turn: 57, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.759913 Turn: 58, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.760747 Turn: 59, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.761537 Turn: 60, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.762350 Turn: 61, Snakes Alive: [], Food: 11, Hazards: 0
+INFO 13:07:07.762764 Game completed after 62 turns.
+INFO 13:07:07.857513 Snake ID: 97cf17a5-341e-464c-a2e9-00693e94ad1f URL: http://127.0.0.1:49931, Name: "Rule-based agent"
+INFO 13:07:07.858322 Ruleset: solo, Seed: 109
+INFO 13:07:07.858343 Turn: 0, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.870419 Turn: 1, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.871538 Turn: 2, Snakes Alive: [Rule-based agent], Food: 1, Hazards: 0
+INFO 13:07:07.872596 Turn: 3, Snakes Alive: [Rule-based agent], Food: 1, Hazards: 0
+INFO 13:07:07.873498 Turn: 4, Snakes Alive: [Rule-based agent], Food: 2, Hazards: 0
+INFO 13:07:07.874248 Turn: 5, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.875117 Turn: 6, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.875975 Turn: 7, Snakes Alive: [Rule-based agent], Food: 3, Hazards: 0
+INFO 13:07:07.876828 Turn: 8, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.877527 Turn: 9, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.878740 Turn: 10, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.879617 Turn: 11, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.880528 Turn: 12, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.881241 Turn: 13, Snakes Alive: [Rule-based agent], Food: 4, Hazards: 0
+INFO 13:07:07.881896 Turn: 14, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.882566 Turn: 15, Snakes Alive: [Rule-based agent], Food: 5, Hazards: 0
+INFO 13:07:07.883377 Turn: 16, Snakes Alive: [Rule-based agent], Food: 6, Hazards: 0
+INFO 13:07:07.884154 Turn: 17, Snakes Alive: [Rule-based agent], Food: 7, Hazards: 0
+INFO 13:07:07.885103 Turn: 18, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.885955 Turn: 19, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.886822 Turn: 20, Snakes Alive: [Rule-based agent], Food: 8, Hazards: 0
+INFO 13:07:07.887708 Turn: 21, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.888476 Turn: 22, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.889169 Turn: 23, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.889845 Turn: 24, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.890494 Turn: 25, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.891138 Turn: 26, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.891805 Turn: 27, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.892500 Turn: 28, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.893301 Turn: 29, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.894059 Turn: 30, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.894715 Turn: 31, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.895365 Turn: 32, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.896039 Turn: 33, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.896769 Turn: 34, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.897384 Turn: 35, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.898072 Turn: 36, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.898841 Turn: 37, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.899579 Turn: 38, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.900329 Turn: 39, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.901121 Turn: 40, Snakes Alive: [Rule-based agent], Food: 9, Hazards: 0
+INFO 13:07:07.901900 Turn: 41, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.902697 Turn: 42, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.903457 Turn: 43, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.904160 Turn: 44, Snakes Alive: [Rule-based agent], Food: 10, Hazards: 0
+INFO 13:07:07.904856 Turn: 45, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.905531 Turn: 46, Snakes Alive: [Rule-based agent], Food: 11, Hazards: 0
+INFO 13:07:07.906191 Turn: 47, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.906867 Turn: 48, Snakes Alive: [Rule-based agent], Food: 12, Hazards: 0
+INFO 13:07:07.907552 Turn: 49, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.908218 Turn: 50, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.908868 Turn: 51, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.909579 Turn: 52, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.910219 Turn: 53, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.910844 Turn: 54, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.911469 Turn: 55, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.912136 Turn: 56, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.912780 Turn: 57, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.913448 Turn: 58, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.914217 Turn: 59, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.914981 Turn: 60, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.915725 Turn: 61, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.916414 Turn: 62, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.917100 Turn: 63, Snakes Alive: [Rule-based agent], Food: 13, Hazards: 0
+INFO 13:07:07.917865 Turn: 64, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.918665 Turn: 65, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.919454 Turn: 66, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.920279 Turn: 67, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.921048 Turn: 68, Snakes Alive: [Rule-based agent], Food: 14, Hazards: 0
+INFO 13:07:07.921844 Turn: 69, Snakes Alive: [], Food: 15, Hazards: 0
+INFO 13:07:07.922226 Game completed after 70 turns.

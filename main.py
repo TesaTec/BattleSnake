@@ -12,7 +12,7 @@
 
 import random
 import typing
-from step_0_state_attributes import make_training_example
+from Exercise2.step_0_state_attributes import make_training_example
 
 # info is called when you create your Battlesnake on play.battlesnake.com
 # and controls your Battlesnake's appearance
