@@ -17,7 +17,7 @@ from step_0_cnn_state_attributes import (
 from server import create_app
 
 
-def cnn_record_games(games=10, data=None, seed=100, seconds=120):
+def cnn_record_games(games=200, data=None, seed=100, seconds=120):
     """Wrap the configured bot's move function; no recording hooks are required."""
     if games < 1 or seconds <= 0:
         raise ValueError('Game count and time limit must be positive.')

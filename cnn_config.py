@@ -8,7 +8,7 @@ from pathlib import Path
 import main as RULE_BASED_AGENT
 
 PROJECT_DIR = Path(__file__).resolve().parent
-ENGINE_PATH = PROJECT_DIR / 'battlesnake' / 'battlesnake'
+ENGINE_PATH = PROJECT_DIR / 'battlesnake' / 'battlesnake.exe'
 
 # Shared defaults for all steps. Absolute paths also work from another directory.
 DATA_PATH = PROJECT_DIR / 'data' / 'cnn_global_moves.json'

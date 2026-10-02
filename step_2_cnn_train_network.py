@@ -24,16 +24,16 @@ class DirectionNetwork(nn.Module):
         super().__init__()
         # Padding keeps the 5x5 filters usable on our small 11x11 board.
         self.features = nn.Sequential(
-            nn.Conv2d(len(CHANNELS), 6, kernel_size=5, padding=2),  # Cx11x11 -> 6x11x11
+            nn.Conv2d(len(CHANNELS), 12, kernel_size=5, padding=2),  # Cx11x11 -> 6x11x11
             nn.Tanh(),
             nn.AvgPool2d(kernel_size=2),                          # -> 6x5x5
-            nn.Conv2d(6, 16, kernel_size=5, padding=2),           # -> 16x5x5
+            nn.Conv2d(12, 32, kernel_size=5, padding=2),           # -> 16x5x5
             nn.Tanh(),
             nn.AvgPool2d(kernel_size=2),                          # -> 16x2x2
         )
         # Two pooling layers halve each spatial dimension twice.
         # TODO: adapt this in case you change the architecture above
-        flattened_size = 16 * (INPUT_SHAPE[1] // 4) * (INPUT_SHAPE[2] // 4)
+        flattened_size = 32 * (INPUT_SHAPE[1] // 4) * (INPUT_SHAPE[2] // 4)
         self.classifier = nn.Sequential(
             nn.Flatten(),
             nn.Linear(flattened_size, 120),
@@ -59,7 +59,7 @@ def cnn_split_dataframe(df, seed=42):
     return df.loc[~held_out], df.loc[held_out]
 
 
-def cnn_train(df, output=None, epochs=30, learning_rate=.003, batch_size=64):
+def cnn_train(df, output=None, epochs=60, learning_rate=.003, batch_size=64):
     output = Path(output if output is not None else config.MODEL_PATH)
     if output.exists():
         raise FileExistsError(f'{output} exists. Choose another --model filename.')
@@ -111,7 +111,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--data', default=config.DATA_PATH)
     parser.add_argument('--model', default=config.MODEL_PATH)
-    parser.add_argument('--epochs', type=int, default=30)
+    parser.add_argument('--epochs', type=int, default=60)
     parser.add_argument('--batch-size', type=int, default=64)
     parser.add_argument('--learning-rate', type=float, default=.003)
     args = parser.parse_args()

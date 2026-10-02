@@ -12,6 +12,10 @@
 
 import random
 import typing
+import numpy as np
+from math import sqrt
+
+from sympy.parsing.sympy_parser import null
 from Exercise2.step_0_state_attributes import make_training_example
 
 # info is called when you create your Battlesnake on play.battlesnake.com
@@ -21,6 +25,19 @@ from Exercise2.step_0_state_attributes import make_training_example
 recording_enabled = False
 recording_seed = None
 recorded_rows = []
+
+class Node():
+    def __init__(self, parent=None, position=None):
+        self.parent = parent
+        self.position = position
+
+        self.g = 0
+        self.h = 0
+        self.f = 0
+
+    def __eq__(self, other):
+        return self.position == other.position
+
 
 
 def record_state(game_state: typing.Dict, direction: str):
@@ -141,15 +158,117 @@ def move(game_state: typing.Dict) -> typing.Dict:
         return {"move": "down"}
 
     # Choose a random move from the safe ones
-    next_move = random.choice(safe_moves)
+    next_move = move_towards_food(game_state)
 
     # TODO: Step 4 - Move towards food instead of random, to regain health and survive longer
-    # food = game_state['board']['food']
+    food = game_state['board']['food']
 
+    move_towards_food(game_state)
+    print(f"A* solution: {move_towards_food(game_state)}")
+    print(f"Available moves: {safe_moves}")
     print(f"MOVE {game_state['turn']}: {next_move}")
     if recording_enabled:
         record_state(game_state, next_move)
     return {"move": next_move}
+
+def move_towards_food(game_state):
+    board_x= game_state['board']['width']
+    board_y= game_state['board']['height']
+
+    head = game_state['you']['body'][0]
+    head_x = head["x"]
+    head_y = head["y"]
+    head = (head_x, head_y)
+
+    grid = np.zeros ((board_x, board_y))
+    snakes = game_state['board']['snakes']
+
+    for snake in snakes:
+        for body in snake["body"][1:]:
+            grid[body["x"], body["y"]] = 1
+
+    print(grid)
+
+    if not game_state['board']['food']:
+        return "up"
+
+
+
+
+
+    openList = []
+    closedList = []
+    food = game_state['board']['food'][0]
+    food_x = food["x"]
+    food_y =  food["y"]
+    food = (food_x, food_y)
+
+
+    start_node = Node(None, head)
+    print(f"start_node: {start_node.position}")
+    start_node.g = start_node.h = start_node.f = 0
+    end_node = Node(None, food)
+    end_node.g = end_node.h = end_node.f = 0
+
+    openList.append(start_node)
+
+    while len(openList) > 0:
+        current_node = openList[0]
+        current_index = 0
+        for index, item in enumerate(openList):
+            if item.f < current_node.f:
+                current_node = item
+                current_index = index
+
+        openList.pop(current_index)
+        closedList.append(current_node)
+
+        if current_node == end_node:
+            path = []
+            current = current_node
+            while current is not None:
+                path.append(current.position)
+                current = current.parent
+            path = path[::-1]
+            if len(path) < 2:
+
+                if path[1][0] > start_node.position[0]:
+                    return "right"
+                if path[1][0] < start_node.position[0]:
+                    return "left"
+                if path[1][1] > start_node.position[1]:
+                    return "up"
+                if path[1][1] < start_node.position[1]:
+                    return "down"
+            #return path[1]
+
+
+        children = []
+        for new_position in [(0, -1), (0, 1), (-1, 0), (1, 0)]:
+            node_position = (current_node.position[0] + new_position[0], current_node.position[1] + new_position[1])
+            if node_position[0] < 0 or node_position[0] >= board_x or node_position[1] < 0 or node_position[1] >= board_y:
+                continue
+
+            if grid[node_position[0]][node_position[1]] != 0:
+                continue
+
+            new_node = Node(parent=current_node, position=node_position)
+            children.append(new_node)
+        for child in children:
+            for closed_child in closedList:
+                if child == closed_child:
+                    continue
+
+            child.g = current_node.g + 1
+            child.h = ((child.position[0] - end_node.position[0]) ** 2) + ((child.position[1] - end_node.position[1]) ** 2)
+            child.f = child.g + child.h
+
+            for open_node in openList:
+                if child == open_node and child.g > open_node.g:
+                    continue
+
+            openList.append(child)
+
 
 
 # Start server when `python main.py` is run
@@ -157,3 +276,5 @@ if __name__ == "__main__":
     from server import run_server
 
     run_server({"info": info, "start": start, "move": move, "end": end})
+
+
