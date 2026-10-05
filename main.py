@@ -189,8 +189,6 @@ def move_towards_food(game_state):
 
     print(grid)
 
-    if not game_state['board']['food']:
-        return "up"
 
 
 
@@ -230,17 +228,15 @@ def move_towards_food(game_state):
                 path.append(current.position)
                 current = current.parent
             path = path[::-1]
-            if len(path) < 2:
+            if path[1][0] > start_node.position[0]:
+                return "right"
+            if path[1][0] < start_node.position[0]:
+                return "left"
+            if path[1][1] > start_node.position[1]:
+                return "up"
+            if path[1][1] < start_node.position[1]:
+                return "down"
 
-                if path[1][0] > start_node.position[0]:
-                    return "right"
-                if path[1][0] < start_node.position[0]:
-                    return "left"
-                if path[1][1] > start_node.position[1]:
-                    return "up"
-                if path[1][1] < start_node.position[1]:
-                    return "down"
-            #return path[1]
 
 
         children = []
