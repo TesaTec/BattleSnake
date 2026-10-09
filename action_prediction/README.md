@@ -168,10 +168,21 @@ remains a concrete animation; no probability map is added for it.
 Discuss:
 
 1. Which recorded actions receive high probability? Is the whole sequence correct?
-2. Does the predicted path collide? Can individually plausible actions form an
-   impossible sequence when combined?
+
+The closer in time the prediction is to the recorded value, the more accurate it is. Later in the sequence, the accuracy falls dramatically. 
+
+2. Does the predicted path collide? Can individually plausible actions form an impossible sequence when combined?
+
+The predicted path can collide and individual actions can form an impossible sequence, if it predicts wrong.
+
 3. Can different action sequences reach the same final cell?
+
+Yes
+
 4. Does the LSTM help in this task? Does this teacher actually need long memory?
+
+The LSTM on the current length of history does not provide a better result.
+
 
 **Metrics:** per-action top-1 accuracy, exact-sequence accuracy, action negative
 log likelihood (lower is better), simulated survival over the forecast horizon,

@@ -7,6 +7,7 @@ Input: (batch, HISTORY, number of features).
 4. Reshape to (batch, future, 4). Return LOGITS, not softmax probabilities.
 The supplied pipeline handles training, validation and plotting.
 """
+import torch
 from torch import nn
 
 
@@ -14,11 +15,15 @@ class StudentRNN(nn.Module):
     def __init__(self, input_size, hidden_size, future):
         super().__init__()
         # TODO: store future and define the recurrent/output layers.
-        raise NotImplementedError('Define your RNN layers in Step 2.')
+        self.future = future
+        self.rnn = nn.RNN(input_size=input_size, hidden_size=hidden_size, batch_first=True)
+        self.output_layer = nn.Linear(hidden_size, future * 4)
 
     def forward(self, observations):
         # TODO: recurrent outputs -> last output -> action logits.
-        raise NotImplementedError('Implement your RNN forward pass in Step 2.')
+        outputs, _ = self.rnn(observations)
+        predictions = self.output_layer(outputs[:, -1, :])
+        return predictions.view(-1, self.future, 4)
 
 
 ActionRNN = StudentRNN

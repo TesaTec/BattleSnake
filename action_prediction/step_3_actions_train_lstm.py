@@ -10,12 +10,15 @@ from torch import nn
 class StudentLSTM(nn.Module):
     def __init__(self, input_size, hidden_size, future):
         super().__init__()
-        # TODO: the same small architecture, using an LSTM.
-        raise NotImplementedError('Define your LSTM layers in Step 3.')
+        self.future = future
+        self.lstm = nn.LSTM(input_size=input_size, hidden_size=hidden_size, batch_first=True)
+        self.output_layer = nn.Linear(hidden_size, future * 4)
 
     def forward(self, observations):
         # TODO: return (batch, future, 4) logits.
-        raise NotImplementedError('Implement your LSTM forward pass in Step 3.')
+        outputs, (hidden, cell) = self.lstm(observations)
+        predictions = self.output_layer(outputs[:, -1, :])
+        return predictions.reshape(observations.shape[0], self.future, 4)
 
 
 ActionLSTM = StudentLSTM

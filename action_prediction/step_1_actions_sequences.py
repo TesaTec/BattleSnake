@@ -6,12 +6,14 @@ t: index of the final OBSERVED state. Both slices must include index t.
 Return arrays of shapes (history, feature_count) and (future,).
 The caller handles game boundaries and excludes terminal-horizon examples.
 """
+import numpy as np
 
 
 def student_make_example(features, actions, t, history, future):
-    # TODO: select observations ending at t and actions starting at t.
-    raise NotImplementedError('Complete student_make_example in Step 1 before preparing the dataset.')
-
+    inputs = features[t - history + 1:t + 1]
+    outputs = actions[t + 1:t + 1 + future]
+    return inputs, outputs
+    
 
 if __name__ == '__main__':
     from supplied_pipeline import prepare
