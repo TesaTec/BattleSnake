@@ -164,9 +164,7 @@ def move(game_state: typing.Dict) -> typing.Dict:
     food = game_state['board']['food']
 
     move_towards_food(game_state)
-    print(f"A* solution: {move_towards_food(game_state)}")
-    print(f"Available moves: {safe_moves}")
-    print(f"MOVE {game_state['turn']}: {next_move}")
+
     if recording_enabled:
         record_state(game_state, next_move)
     return {"move": next_move}
