@@ -8,8 +8,15 @@ import numpy as np
 
 
 def choose_action(q_values, epsilon, rng):
+    if rng.random() < epsilon:
+        return rng.integers(4)
+    else:
+        max_q = np.max(q_values)
+        max_indices = np.where(q_values == max_q)[0]
+        return rng.choice(max_indices)
+
     # TODO: exploration, exploitation and random tie-breaking.
-    raise NotImplementedError('Complete choose_action in Step 2.')
+
 
 
 if __name__ == '__main__':
