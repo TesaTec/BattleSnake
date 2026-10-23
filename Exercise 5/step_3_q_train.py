@@ -15,8 +15,16 @@ def update_q(q, state, action, reward, next_state, terminated, alpha, gamma):
     Target = reward at a true terminal state; otherwise include the discounted
     maximum next-state Q-value. A time-limit truncation still bootstraps.
     """
+    if terminated:
+        target = reward
+
+    else:
+       target = reward + gamma * np.max(next_state)
+    q[state][action] += alpha * (target - q[state][action])
+
+
     # TODO: TD target -> TD error -> update this state/action entry.
-    raise NotImplementedError('Complete update_q in Step 3.')
+
 
 
 def train_episode(env, q, epsilon, rng, seed, alpha, gamma):
@@ -30,7 +38,22 @@ def train_episode(env, q, epsilon, rng, seed, alpha, gamma):
     episode_reward is the undiscounted sum for reporting; gamma is used in updates.
     """
     # TODO: connect the interaction cycle; update after EVERY transition.
-    raise NotImplementedError('Complete train_episode in Step 3.')
+    observation, _ = env.reset(seed=seed)
+    state = encode_state(observation)
+    episode_reward = 0.0
+    steps = 0
+    terminated = truncated = False
+    info = None
+    while not (terminated or truncated):
+        action = choose_action(q[state], epsilon, rng)
+        next_observation, reward, terminated, truncated, info = env.step(action)
+        next_state = encode_state(next_observation)
+        update_q(q, state, action, reward, next_state, terminated, alpha, gamma)
+        episode_reward += reward
+        steps += 1
+        state = next_state
+
+    return dict(reward=episode_reward, steps=steps, apples=info['apples'], terminated=terminated, truncated=truncated, reason=info['reason'])
 
 
 if __name__ == '__main__':
