@@ -11,7 +11,7 @@ from math import ceil
 from pathlib import Path
 import gymnasium as gym
 import numpy as np
-from stable_baselines3 import DQN
+from stable_baselines3 import DQN, PPO
 from hisss_tools import DELTAS, TURN_LIMIT, new_game, board, advance, replay
 
 
@@ -117,7 +117,7 @@ def train(seed, steps, folder):
     # TODO 1.1: Replace None with an SB3 DQN. Give it "MlpPolicy", our env and seed,
     # TODO 2.1: Try to replace DQN with PPO and see if it does better after training
     # and unpack options as keyword arguments. Create it once so it retains experience.
-    model = None
+    model = PPO("MlpPolicy", env, seed=seed)
 
     if model is None:
         raise NotImplementedError("Set the model two lines above.")
@@ -129,7 +129,7 @@ def train(seed, steps, folder):
             # TODO 1.2: Replace the exception with a call to the model's learn method.
             # Use block_steps for total_timesteps; the last block may be shorter. Set
             # reset_num_timesteps to False so progress continues across blocks.
-            raise NotImplementedError("Train your agent here.")
+            model.learn(total_timesteps=block_steps, reset_num_timesteps=False)
             steps_left -= block_steps
 
             # Report on the average performance in the last 20 recently completed games
@@ -141,7 +141,7 @@ def train(seed, steps, folder):
         # The deployment script reads dqn.zip. The CSV keeps one row per finished game.
         folder.mkdir(parents=True, exist_ok=True)
         # TODO 2.2: replace the name of the model to be saved once you added PPO above
-        model.save(folder/"dqn.zip")
+        model.save(folder/"ppo.zip")
         with (folder/"training.csv").open("w", newline="") as f:
             writer = csv.writer(f)
             writer.writerow(["training_step","episode_return","apples","turns"])
@@ -176,7 +176,7 @@ def visualize(model, history, folder, seed):
     def greedy(game):
         action, _ = model.predict(prepare_observation(board(game)), deterministic=True)
         return int(action)
-    replay(greedy, seed+1000000, folder/"greedy.gif", "DQN: greedy replay")
+    replay(greedy, seed+1000000, folder/"greedy.gif", "PPO: greedy replay")
 
 
 if __name__ == "__main__":
@@ -187,6 +187,6 @@ if __name__ == "__main__":
     if args.steps <= 0 or args.steps % 4 or args.seed < 0:
         parser.error("Use a positive multiple of four steps and a nonnegative seed.")
     # Change --seed to repeat the experiment; each seed and budget gets its own folder.
-    folder = Path("results")/f"dqn_seed{args.seed}_steps{args.steps}"
+    folder = Path("results")/f"ppo_seed{args.seed}_steps{args.steps}"
     model, history = train(args.seed, args.steps, folder)
     visualize(model, history, folder, args.seed)

@@ -42,7 +42,31 @@ def selection(root, game, horizon, C=1.4):
        Add the reward to the prefix reward and continue from the child at step 2.
        Do not change visit counts here. We will do this in the backpropagation phase.
     """
-    raise NotImplementedError("Implement selection.")
+
+    node = root
+    prefix_reward = 0
+
+    while not game.is_terminal() and node.depth < horizon:
+        if len(node.children) < len(MOVES):
+            break
+
+        best_action = None
+        best_child = None
+        max_UCB = float('-inf')
+
+        for action, child in node.children.items():
+            UCB = (child.total / child.visits) + C * sqrt(log(node.visits) / child.visits)
+            if UCB > max_UCB:
+                max_UCB = UCB
+                best_action = action
+                best_child = child
+        reward, _, _= advance(game, best_action)  
+        prefix_reward += reward
+
+        node = best_child
+
+    return node, prefix_reward
+
 
 
 def exploration(node, game, horizon, rng):
@@ -63,7 +87,19 @@ def exploration(node, game, horizon, rng):
        Store that node as child in the parent's dictionary.
     4. Return the new child and the immediate reward.
     """
-    raise NotImplementedError("Implement exploration (expansion).")
+
+    if game.is_terminal() or node.depth == horizon:
+        return node, 0
+    untried_actions = [action for action in range(len(MOVES)) if action not in node.children]
+
+    action = rng.choice(untried_actions)
+    reward, _, _ = advance(game, action)
+
+    new_node = Node(parent=node, depth=node.depth + 1)
+
+    node.children[action] = new_node
+
+    return new_node, reward
 
 
 def simulation(game, remaining_horizon, rng):
@@ -80,8 +116,16 @@ def simulation(game, remaining_horizon, rng):
     4. Add its reward to the return and reduce remaining_horizon by 1. Go back to step 2.
     5. After the loop, return the sum.
     """
-    raise NotImplementedError("Implement simulation.")
 
+    total_reward = 0
+
+    while not game.is_terminal() and remaining_horizon > 0:
+        moves = rollout_moves(game)
+        action = rng.choice(moves)
+        reward, _, _ = advance(game, action)
+        total_reward += reward
+        remaining_horizon -= 1
+    return total_reward
 
 def backpropagation(node, value):
     """Update the tree's nodes visit and total reward.
@@ -92,8 +136,10 @@ def backpropagation(node, value):
 
     This function does not return anything.
     """
-    raise NotImplementedError("Implement backpropagation.")
-
+    while node is not None:
+        node.visits += 1
+        node.total += value
+        node = node.parent
 
 def search(game, iterations, rng, horizon=12):
     """This function implements MCTS search by combining the four functions implemented by you."""
